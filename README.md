@@ -6,7 +6,7 @@ This repo contains various scripts for interfacing with Azure APIs relevant to t
 
 ### question-answering.py
 
-This script uses the Question Answering and Language Detection APIs from Azure to create a command-line interface for the chatbot. It responds to basic small talk as well as technical questions (currently trained off of >700k Python questions). It can handle invalid input such as non-English or blank data and respond to the user accordingly.
+This script uses the Question Answering and Language Detection APIs from Azure to create a command-line interface for the chatbot. It responds to basic small talk as well as technical questions (trained off of >1.26 million StackOverflow questions). It can handle invalid input such as non-English or blank data and respond to the user accordingly.
 
 ---
 
